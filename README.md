@@ -54,3 +54,7 @@ Step-6 :
 .Model Evaluation .Prepare Model for Predictor variables selection (Prepare multiple models & choose the best one)
 
 Finally we need to give best Summarize to the company
+
+
+Contact
+Created by [@ashishc3090] - feel free to contact me!
